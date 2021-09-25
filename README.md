@@ -21,4 +21,6 @@ To use the application clone the repository and run the pychain.py with:
 
 python pychain.py
 
-Contributors: Donell Carter email:dcarter7279@gmail.com
+# Contributors: 
+
+Donell Carter email:dcarter7279@gmail.com
