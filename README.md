@@ -9,10 +9,15 @@ This project leverages python 3.3.8.5 with the following packages:
 pip install streamlit
 
 import streamlit as st
+
 from dataclasses import dataclass
+
 from typing import Any, List
+
 import datetime as datetime
+
 import pandas as pd
+
 import hashlib
 
 # Usage
